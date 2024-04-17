@@ -1,0 +1,2 @@
+persist.sys.binary_xml=false
+ro.fastbootd.available=true
